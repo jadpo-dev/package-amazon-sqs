@@ -13,4 +13,5 @@ provider {
     settings: {
         queue_url: Text
     }
+    reviewed: [DeleteMessageRequest, QueueMessage, ReceiveMessageRequest, ReceiveMessageResult]
 }
