@@ -5,10 +5,10 @@ package AmazonSqs.v2012_11_05
     /// Amazon SQS: a queue's messages received as the app's events.
     file package.jadpo
     kind provider
-    version 1.0.1
+    version 1.1.0
     publisher @jadpo
     licence apache_2_0
-    jadpo 1.0
+    jadpo 0.4
 
 provider
     /// Amazon SQS through its JSON protocol, each request signed with AWS Signature Version 4. The connection gives its endpoint, such as `https://sqs.eu-west-2.amazonaws.com`, whose region requests are signed for, and the queue's address.

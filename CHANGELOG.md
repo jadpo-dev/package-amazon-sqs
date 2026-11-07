@@ -1,8 +1,8 @@
 # Changelog
 
-## 1.0.1
+## 1.1.0
 
-- no change to what it offers
+- changed package `AmazonSqs.v2012_11_05`
 
 Checked against Amazon SQS's documentation for receiving and deleting a
 message, and marked as reviewed. Nothing an app writes changes.
